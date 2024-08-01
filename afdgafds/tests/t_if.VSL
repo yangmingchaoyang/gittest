@@ -1,0 +1,7 @@
+FUNC main()
+	IF 1
+	THEN
+		PRINT "if\n"
+	ELSE
+		PRINT "else\n"
+	FI

@@ -1,0 +1,5 @@
+FUNC main()
+{
+	//打印字符串
+	PRINT "This is a test.\n"
+}

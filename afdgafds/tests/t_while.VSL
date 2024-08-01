@@ -1,0 +1,15 @@
+FUNC main()
+{
+	VAR i
+	i:=3
+	
+	WHILE i
+	DO
+	{
+		PRINT i,"\t"
+		i := i - 1
+	}
+	DONE
+
+	PRINT "\n"
+}
